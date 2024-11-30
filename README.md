@@ -1,4 +1,4 @@
 # project-demo
 This is my first git repository.
 <br>
-Author- Soumili (BTECH first year)
+Author- Soumili Chatterjee (BTECH first year)
